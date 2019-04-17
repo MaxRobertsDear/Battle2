@@ -1,16 +1,31 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Scripts/Battle/spec/features/feature_spec.rb": [
-        null,
+      "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/features/enter_names_spec.rb": [
+        1,
+        1,
+        1,
         1,
         1,
         1,
         1,
         null,
         null
+      ],
+      "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/features/feature_spec.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1555512303
+    "timestamp": 1555518849
   }
 }
