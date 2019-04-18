@@ -1,10 +1,16 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/features/attack_player_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/features/enter_names_spec.rb": [
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -24,8 +30,28 @@
         null,
         null,
         null
+      ],
+      "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/features/view_HP_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/player_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        2,
+        null,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1555588636
+    "timestamp": 1555597689
   }
 }
