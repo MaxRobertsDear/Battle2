@@ -6,7 +6,7 @@
         1,
         1,
         1,
-        1,
+        0,
         null,
         null
       ],
@@ -31,6 +31,16 @@
         null,
         null
       ],
+      "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/features/inflct_damage_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        null,
+        null
+      ],
       "/Users/mac/Desktop/MakersProjects/Weekly_Challenges/Week3/Battles_Jose/battle/spec/features/view_HP_spec.rb": [
         1,
         1,
@@ -52,6 +62,6 @@
         null
       ]
     },
-    "timestamp": 1555597689
+    "timestamp": 1555601552
   }
 }
